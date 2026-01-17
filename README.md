@@ -1,0 +1,2 @@
+# Lane-Detection-using-Classical-Computer-Vision-Machine-Learning
+Project is to design &amp; implement a lane detection system for road images using only classical computer vision techniques and lightweight machine learning ideas. The focus is strictly on detecting straight lane lines without relying on deep learning models. The system is built &amp; evaluated using a Kaggle dataset, ensuring reproducibility &amp; fairness.
